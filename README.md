@@ -1,6 +1,6 @@
 Description
 ----------------
-This project provides option to view files added under google drive and upload files to google drive using OAuth 2.0
+This project provides option to view files added under google drive and upload files to google drive using OAuth 2.0 Via PHP
 
 Installation
 ------------------------
