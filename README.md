@@ -19,5 +19,6 @@ Steps to Create Project under google and use it to access Drive data
 6. Download Client Credentials json file
 7. Replace the json/credentials.json file content with your downloaded file's content
 8. Go to Account settings of your google account and allow less secure apps to access your data
+9. Edit baseUrl in Common.php
 9. Run the project
 
